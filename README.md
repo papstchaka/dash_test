@@ -26,6 +26,7 @@ App provides to 'different' sites that are already implemented:
 
 * in `routes.py` / `home.py` / `project.py` you can see how routing can be done in dash using different dash apps
 * in `layout.py` you can see how the layout - which is almost similar to the `html`-version in my <a href="https://github.com/papstchaka/django_test" target="_blank">django_test</a> repo - can be easily implemented without using any HTML or JavaScript, only with Python and some CSS - for styling reasons.
+--> Layout can be easily changed by changing the default variables in `layout.py`'s class header or adding other dash-objects
 
 <h2 align="center">
   <img src=https://github.com/papstchaka/dash_test/blob/master/data/static/assets/subsite.jpg alt="Subsite View" width="800px" />
