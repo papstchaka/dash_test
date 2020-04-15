@@ -2,7 +2,7 @@
 Short Implementation that shows how plotly-dash can be used as framework to host webistes that are created with basic HTML + CSS using a flask server.
 
 <h2 align="center">
-  <img src=https://github.com/papstchaka/dash_test/blob/master/dash_test/data/static/assets/index.jpg alt="Home View" width="800px" />
+  <img src=https://github.com/papstchaka/dash_test/blob/master/data/static/assets/index.jpg alt="Home View" width="800px" />
 </h2>
 
 ## Requirements
@@ -28,5 +28,5 @@ App provides to 'different' sites that are already implemented:
 * in `layout.py` you can see how the layout - which is almost similar to the `html`-version in my <a href="https://github.com/papstchaka/django_test" target="_blank">django_test</a> repo - can be easily implemented without using any HTML or JavaScript, only with Python and some CSS - for styling reasons.
 
 <h2 align="center">
-  <img src=https://github.com/papstchaka/dash_test/blob/master/dash_test/data/static/assets/subsite.jpg alt="Subsite View" width="800px" />
+  <img src=https://github.com/papstchaka/dash_test/blob/master/data/static/assets/subsite.jpg alt="Subsite View" width="800px" />
 </h2>
